@@ -3,8 +3,8 @@ Ejercicio 1
 
 | Área                       | Objetivos                                                                                                                                                                        | Puntos |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Repositorio Git           | Creación y uso de repositorios locales y remotos                                                       | 2     | 
-|                                    | Comandos Git ejecutados desde terminal                                                                  |        |
+| Repositorio Git           | Creación y uso de repositorios locales y remotos
+Comandos Git ejecutados desde terminal| 2     | 
 | Versionado                | Aplicar buenas prácticas de versionado 
 |                                   | Uso de ramas separadas de 'main' Resumen de commits y evolución del proyecto                                      | 3      |
 | Elicitación               | Evidencia de actividades de investigación Referencias a fuentes de información Caracterización de usuarios: User Personas Modelo conceptual del problema | 3      |
